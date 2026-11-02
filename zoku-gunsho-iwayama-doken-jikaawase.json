@@ -1273,6 +1273,10 @@
    "dai": ""
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-iwayama-doken-jikaawase",
   "work": "岩山道堅自歌合",
@@ -1285,7 +1289,7 @@
   "blocks": 12,
   "chars": 3594,
   "poems": 79,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
